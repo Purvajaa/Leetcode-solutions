@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Purvajaa/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Purvajaa/Leetcode-solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Purvajaa/Leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Purvajaa/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Math
 |  |
 | ------- |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Purvajaa/Leetcode-solutions/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Purvajaa/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Simulation
+|  |
+| ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Purvajaa/Leetcode-solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
